@@ -1,5 +1,5 @@
   # For Starting React Applications  run the command 
-   cd crud-option
+   cd crud-option <br>
    npm run dev 
 
    # For Starting JSON Sever run the command
