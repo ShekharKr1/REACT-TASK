@@ -3,8 +3,8 @@
    npm run dev 
 
    # For Starting JSON Sever run the command
-   cd crud-option
-   cd src
+   cd crud-option <br>
+   cd src <br>
    json-server --watch db.json --port 3000
 
 # React + Vite
